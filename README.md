@@ -1,4 +1,5 @@
 # HashSlingingSlashers | Financial Management Application
+
 This Full Stack Web Application is designed as a cross-platform solution, accessible from both mobile devices and web browsers, provided users have stable internet connection. Its primary purpose is to empower users to manage their finances with ease and clarity. Through the application, users can track budgets, categorize their spending into meaningful categories (e.g., transportations, groceries, shopping), and review account statements.
 
 Our application allows users to transfer funds between accounts—for example, moving
@@ -20,7 +21,6 @@ answers to support decision-making.
 
 ## Features
 
-- 
 - Docker Cloud Deployment
 - OWASP ZAP Audit
 - Artificial Intelligence Chat Bot
@@ -48,6 +48,7 @@ system can handle an increasing number of users and data overtime
 ---
 
 ## Tech Stack
+
 - Python, C
 - Java for backend services
 - PostgreSQL for data management
@@ -56,6 +57,7 @@ system can handle an increasing number of users and data overtime
 ---
 
 # Contributors
+
 - Project Manager | Cloud Security Engineer | [Jeffery Kimbrow](https://github.com/kimbrow-slice)
 - Backend Developer | AI Developer | [Madeline Brothers](https://github.com/madelinebro)
 - Frontend Developer | API Developer |  [Yasmin Hassan](***)
