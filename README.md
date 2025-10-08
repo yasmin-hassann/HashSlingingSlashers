@@ -12,7 +12,7 @@ answers to support decision-making.
 ## Table of Contents
 
 - [Features](#features)
-- [Goals & Objectives](#goals & objectives)
+- [Objectives](#objectives)
 - [Tech Stack](#techstack)
 - [Contributors](#contributors)
 
@@ -27,7 +27,7 @@ answers to support decision-making.
 
 ---
 
-## Goals & Objectives
+## Objectives
 
 One key goal of the project is to ensure broad accessibility. This includes making the
 application attainable across multiple operating systems and devices, ensuring that the text and
