@@ -1,0 +1,16 @@
+backend-boilerplate/
+│
+├── app/
+│   ├── main.py
+│   ├── config.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── routes/
+│   │   └── user_routes.py
+│   └── crud.py
+│
+├── .env
+├── requirements.txt
+└── README.md
+
