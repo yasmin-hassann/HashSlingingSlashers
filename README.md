@@ -49,10 +49,14 @@ system can handle an increasing number of users and data overtime
 
 ## TechStack
 
-- Python, C
-- Java for backend services
+- Python, C, Java for backend services 
 - PostgreSQL for data management
 - JavaScript, HTML, and CSS for the frontend interface
+- Docker.io for Containerization
+- Redis for cache
+- NGINX for Gateway
+- BERT Fincancal Model
+- CSRF/JWT 
 
 ---
 
