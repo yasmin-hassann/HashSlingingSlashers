@@ -47,7 +47,7 @@ system can handle an increasing number of users and data overtime
 
 ---
 
-## Tech Stack
+## TechStack
 
 - Python, C
 - Java for backend services
