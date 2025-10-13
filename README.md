@@ -64,5 +64,5 @@ system can handle an increasing number of users and data overtime
 
 - Project Manager | Cloud Security Engineer | [Jeffery Kimbrow](https://github.com/kimbrow-slice)
 - Backend Developer | AI Developer | [Madeline Brothers](https://github.com/madelinebro)
-- Frontend Developer | API Developer |  [Yasmin Hassan](***)
-- Documentation Lead | Prototype Developer | [Samantha Saunsaucie](***)
+- Documentation Lead | API Developer |  [Yasmin Hassan](***)
+- Frontend Developer | Prototype Developer | [Samantha Saunsaucie](https://github.com/ssaunsaucie)
