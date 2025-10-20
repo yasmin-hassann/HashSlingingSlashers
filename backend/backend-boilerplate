@@ -11,7 +11,7 @@ backend/
       __init__.py
       budgets.py
       transactions.py
-  tests/
+  testing/
     testing.py
   Dockerfile        
 .env.example
