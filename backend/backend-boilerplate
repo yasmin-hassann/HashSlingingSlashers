@@ -1,16 +1,18 @@
-backend-boilerplate/
-│
-├── app/
-│   ├── main.py
-│   ├── config.py
-│   ├── database.py
-│   ├── models.py
-│   ├── schemas.py
-│   ├── routes/
-│   │   └── user_routes.py
-│   └── crud.py
-│
-├── .env
-├── requirements.txt
-└── README.md
+backend/
+  app/
+    __init__.py
+    main.py
+    login.py
+    db.py
+    profile.py
+    settings.py
+    authorize.py
+    routes/
+      __init__.py
+      budgets.py
+      transactions.py
+  tests/
+    testing.py
+  Dockerfile        
+.env.example
 
