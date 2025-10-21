@@ -3,7 +3,7 @@ backend/
     __init__.py
     main.py
     login.py
-    db.py
+    dashboard.py
     profile.py
     settings.py
     authorize.py
@@ -11,6 +11,7 @@ backend/
       __init__.py
       budgets.py
       transactions.py
+      database.py
   testing/
     testing.py
   Dockerfile        
